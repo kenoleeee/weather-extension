@@ -10,7 +10,7 @@ This browser extension allows you to quickly check the weather in any city. It w
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/weather-extension.git
+git clone https://github.com/kenoleeee/weather-extension/
 
 Open Chrome and go to chrome://extensions/
 
@@ -22,17 +22,19 @@ Select the project folder
 
 📁 Project Structure
 
-weather-extension/
-│── images/        # Images (icons, banner)
-│── icon.png       # Extension icon
-│── manifest.json  # Manifest file
-│── popup.html     # Popup window
-│── popup.js       # Functionality logic
-│── style.css      # Styles
+📂 weather-extension/
+ ├── 📂 images/         # Folder for images (icons, banner)
+ ├── 📄 icon.png        # Extension icon
+ ├── 📄 manifest.json   # Extension manifest file
+ ├── 📄 popup.html      # HTML for popup window
+ ├── 📄 popup.js        # JavaScript for functionality
+ ├── 📄 style.css       # CSS styles
 
-📸 Images
-![{917A057D-352D-4AFB-AD69-A77FC1AF4AA3}](https://github.com/user-attachments/assets/24b40ac2-1897-4099-856f-bbff3d4d4a9c)
+📸 Required Images
 
+images/banner.png – Banner for README (recommended size: 1200x400 px)
+
+images/icon.png – Extension icon (recommended size: 128x128 px, 256x256 px)
 
 🛠 Technologies
 
@@ -43,3 +45,4 @@ API for retrieving weather data
 📜 License
 
 MIT
+
