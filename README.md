@@ -19,7 +19,7 @@ This browser extension allows you to quickly check the weather in any city. It w
 
 11. Select the project folder
 
-📁 Project Structure
+## 📁 Project Structure
 
 📂 weather-extension/
 -  ├── 📂 images/         # Folder for images (icons, banner)
@@ -37,4 +37,5 @@ This browser extension allows you to quickly check the weather in any city. It w
 
 ## 🛠 Technologies
 HTML, CSS, JavaScript
+
 API: https://openweathermap.org/api
