@@ -9,7 +9,7 @@ This browser extension allows you to quickly check the weather in any city. It w
 ## 🔧 Installation
 
 1. Clone the repository:
-		git clone https://github.com/YOUR_USERNAME/weather-extension.git
+		git clone https://github.com/kenoleeee/weather-extension.git
 
 5. Open Chrome and go to `chrome://extensions/`
 
@@ -22,15 +22,17 @@ This browser extension allows you to quickly check the weather in any city. It w
 📁 Project Structure
 
 📂 weather-extension/
- ├── 📂 images/         # Folder for images (icons, banner)
- ├── 📄 icon.png        # Extension icon
- ├── 📄 manifest.json   # Extension manifest file
- ├── 📄 popup.html      # HTML for popup window
- ├── 📄 popup.js        # JavaScript for functionality
- ├── 📄 style.css       # CSS styles
+-  ├── 📂 images/         # Folder for images (icons, banner)
+-  ├── 📄 icon.png        # Extension icon
+-  ├── 📄 manifest.json   # Extension manifest file
+-  ├── 📄 popup.html      # HTML for popup window
+-  ├── 📄 popup.js        # JavaScript for functionality
+-  ├── 📄 style.css       # CSS styles
 
 ## 📸  Images
 
+
+![image](https://github.com/user-attachments/assets/ac63d42f-98fc-48a4-a9aa-bca2b9683ee0)
 
 
 ## 🛠 Technologies
