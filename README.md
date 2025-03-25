@@ -1,24 +1,23 @@
-Weather Extension
+# Weather Extension
 
-An extension for viewing weather in cities directly in the browser.
+*An extension for viewing weather in cities directly in the browser.
+*
 
-🚀 Description
+## 🚀 Description
+This browser extension allows you to quickly check the weather in any city. It was initially developed as a web application and later adapted into an extension. The core web app was based on a tutorial from [this YouTube video.](http://https://www.youtube.com/watch?v=MIYQR-Ybrn4 "this YouTube video.")
 
-This browser extension allows you to quickly check the weather in any city. It was initially developed as a web application and later adapted into an extension. The core web app was based on a tutorial from this YouTube video.
+## 🔧 Installation
 
-🔧 Installation
+1. Clone the repository:
+		git clone https://github.com/YOUR_USERNAME/weather-extension.git
 
-Clone the repository:
+5. Open Chrome and go to `chrome://extensions/`
 
-git clone https://github.com/kenoleeee/weather-extension/
+7. Enable "Developer Mode"
 
-Open Chrome and go to chrome://extensions/
+9. Click "Load unpacked"
 
-Enable "Developer Mode"
-
-Click "Load unpacked"
-
-Select the project folder
+11. Select the project folder
 
 📁 Project Structure
 
@@ -30,19 +29,10 @@ Select the project folder
  ├── 📄 popup.js        # JavaScript for functionality
  ├── 📄 style.css       # CSS styles
 
-📸 Required Images
+## 📸  Images
 
-images/banner.png – Banner for README (recommended size: 1200x400 px)
 
-images/icon.png – Extension icon (recommended size: 128x128 px, 256x256 px)
 
-🛠 Technologies
-
+## 🛠 Technologies
 HTML, CSS, JavaScript
-
-API for retrieving weather data
-
-📜 License
-
-MIT
-
+API: https://openweathermap.org/api
